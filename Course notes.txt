@@ -1,0 +1,5 @@
+CISSP TODO:
+
+* Watch Lesson 1 on learn.frsecure.com
+* Read Introduction of textbook
+* Read "The Ultimate Guide to the CISSP"
